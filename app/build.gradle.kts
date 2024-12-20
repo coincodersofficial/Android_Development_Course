@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vience.android_development_course"
+    namespace = "com.android.fullcourse"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vience.android_development_course"
+        applicationId = "com.android.fullcourse"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

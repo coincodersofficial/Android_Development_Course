@@ -1,4 +1,4 @@
-package com.vience.android_development_course
+package com.android.fullcourse
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

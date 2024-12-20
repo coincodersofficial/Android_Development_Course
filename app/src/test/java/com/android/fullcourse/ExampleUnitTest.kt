@@ -1,4 +1,4 @@
-package com.vience.android_development_course
+package com.android.fullcourse
 
 import org.junit.Test
 

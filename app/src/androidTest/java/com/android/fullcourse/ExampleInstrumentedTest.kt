@@ -1,4 +1,4 @@
-package com.vience.android_development_course
+package com.android.fullcourse
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
